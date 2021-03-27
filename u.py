@@ -1,4 +1,6 @@
 # importing speech recognition package from google api 
+#okkk
+
 import speech_recognition as sr 
 import playsound # to play saved mp3 file 
 from gtts import gTTS # google text to speech 
