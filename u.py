@@ -1,3 +1,7 @@
+
+#okkkk
+
+
 # importing speech recognition package from google api 
 import speech_recognition as sr 
 import playsound # to play saved mp3 file 
